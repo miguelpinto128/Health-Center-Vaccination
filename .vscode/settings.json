@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "centrovacinacao.h": "c",
+        "stdlib.h": "c"
+    }
+}
